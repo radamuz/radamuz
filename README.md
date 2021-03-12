@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @radamuz 
 - 👀 I’m interested in informatics in general, but especially cybersecurity.
-- 🌱 I’m currently learning network computer systems administration professional training.
+- 🌱 I’m currently learning network computer systems administration professional training at CIFP Francesc Borja Moll.
 - 💞️ I’m looking to collaborate on crypto projects like IOTA.
 - 📫 How to reach mee, easily through the different contact platforms on my website: https://radamuz.github.io/
 
