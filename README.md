@@ -10,7 +10,7 @@ I enjoy designing and implementing **scalable, secure, and reproducible** enviro
 - **Cloud Architecture (AWS)** – ECS, EKS, Fargate, ECR, S3, CloudFront, Route 53, VPC, Direct Connect, Transit Gateway, IAM, Lambda…
 - **Infrastructure as Code** – Terraform / Terragrunt, AWS CDK, Ansible, multi-environment setups (DEV / PRE / PRO)
 - **CI/CD & DevOps** – GitHub Actions, GitLab CI, Jenkins, AWS CodeBuild / CodePipeline
-- **Hybrid & On-Prem** – VMware vSphere, Kubernetes/Talos, networking, VPNs, routing, HA designs
+- **Hybrid & On-Prem** – VMware vSphere, Kubernetes (Talos, K3s) networking, VPNs, routing, HA designs
 - **Automation & Scripting** – mainly Bash and Python, plus other tools when they make sense
 - Observability, security best practices, and clear technical documentation
 
