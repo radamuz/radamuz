@@ -1,10 +1,31 @@
-- 👋 Hi, I’m @radamuz 
-- 👀 I’m interested in informatics in general, but especially cybersecurity.
-- 🌱 I’m currently learning network computer systems administration professional training at CIFP Francesc Borja Moll.
-- 💞️ I’m looking to collaborate on crypto projects like IOTA.
-- 📫 How to reach mee, easily through the different contact platforms on my website: https://radamuz.github.io/
+## 👋 Hi, I’m Raúl Adamuz
 
-<!---
-radamuz/radamuz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Cloud / DevOps Engineer focused on **hybrid infrastructure**, **automation** and **AWS**.  
+I enjoy designing and implementing **scalable, secure, and reproducible** environments—both on-prem and in the cloud—and documenting everything so it’s easy to understand and maintain.
+
+---
+
+### 🧠 What I’m good at
+
+- **Cloud Architecture (AWS)** – ECS, Fargate, ECR, S3, CloudFront, Route 53, VPC, Direct Connect, Transit Gateway…
+- **Infrastructure as Code** – Terraform / Terragrunt, multi-environment setups (DEV / PRE / PRO)
+- **CI/CD & DevOps** – GitHub Actions, GitLab CI, Jenkins, AWS CodeBuild / CodePipeline
+- **Hybrid & On-Prem** – VMware vSphere, Kubernetes/Talos, networking, VPNs, routing, HA designs
+- **Automation & Scripting** – mainly Bash, plus other tools when they make sense
+- Observability, security best practices, and clear technical documentation
+
+---
+
+### 🎯 What I’m looking for
+
+I’m interested in roles where I can:
+
+- Design and build **cloud and hybrid architectures** end-to-end  
+- Improve reliability, performance and security through **automation and good practices**  
+- Work closely with teams to turn complex infrastructures into something **simple to use and easy to operate**
+
+---
+
+### 📫 Contact
+
+You can reach me at: **radamuzc@gmail.com**
