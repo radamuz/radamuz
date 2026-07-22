@@ -16,6 +16,17 @@ I enjoy designing and implementing **scalable, secure, and reproducible** enviro
 
 ---
 
+### 🚀 Featured project — Infranettone
+
+I’m the founder of **[Infranettone](https://github.com/infranettone)**, on a mission to become a world reference in **AI-automated infrastructure**.
+
+**[vedtemplate](https://vedtemplate.infranettone.com)** — a production-ready template to ship apps on **Vercel + Express + AWS DynamoDB** at near-zero cost, with a built-in **web traffic monitoring & visitor-identification** dashboard, CI and infrastructure-as-code.
+
+- 🌐 Live demo: **https://vedtemplate.infranettone.com**
+- 📦 Source: **[infranettone/infranettone-template-vercel-express-dynamodb](https://github.com/infranettone/infranettone-template-vercel-express-dynamodb)**
+
+---
+
 ### 🎯 What I’m looking for
 
 I’m interested in roles where I can:
